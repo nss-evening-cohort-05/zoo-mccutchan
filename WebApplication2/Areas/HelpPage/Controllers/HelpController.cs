@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using WebApplication2.Areas.HelpPage.ModelDescriptions;
-using WebApplication2.Areas.HelpPage.Models;
+using zooMccutchan.Areas.HelpPage.ModelDescriptions;
+using zooMccutchan.Areas.HelpPage.Models;
 
-namespace WebApplication2.Areas.HelpPage.Controllers
+namespace zooMccutchan.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

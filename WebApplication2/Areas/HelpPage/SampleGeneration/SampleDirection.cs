@@ -1,4 +1,4 @@
-namespace WebApplication2.Areas.HelpPage
+namespace zooMccutchan.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

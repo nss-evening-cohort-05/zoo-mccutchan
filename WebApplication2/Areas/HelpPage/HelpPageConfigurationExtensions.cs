@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using WebApplication2.Areas.HelpPage.ModelDescriptions;
-using WebApplication2.Areas.HelpPage.Models;
+using zooMccutchan.Areas.HelpPage.ModelDescriptions;
+using zooMccutchan.Areas.HelpPage.Models;
 
-namespace WebApplication2.Areas.HelpPage
+namespace zooMccutchan.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {
