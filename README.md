@@ -1,7 +1,7 @@
 # zoo-mccutchan
 ## Groupstudy assignment
 
-- [ ] Create a new project, install entity framework, and create a new db context for a Zoo.
+- [X] Create a new project, install entity framework, and create a new db context for a Zoo.
 
 - [ ] Zoo's have ZooKeepers, Environments, and Animals.  One Zookeeper are responsible for each Animal,  Each enclosure can have multiple animals.
 
