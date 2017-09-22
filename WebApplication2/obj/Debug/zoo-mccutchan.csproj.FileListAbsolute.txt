@@ -98,3 +98,5 @@ C:\Users\JohnM\Desktop\workspace\workspace\csharp\zoo-mccutchan\WebApplication2\
 C:\Users\JohnM\Desktop\workspace\workspace\csharp\zoo-mccutchan\WebApplication2\bin\EntityFramework.SqlServer.dll
 C:\Users\JohnM\Desktop\workspace\workspace\csharp\zoo-mccutchan\WebApplication2\bin\EntityFramework.xml
 C:\Users\JohnM\Desktop\workspace\workspace\csharp\zoo-mccutchan\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\JohnM\Desktop\workspace\workspace\csharp\zoo-mccutchan\WebApplication2\obj\Debug\WebApplication2.Migrations.initialState.resources
+C:\Users\JohnM\Desktop\workspace\workspace\csharp\zoo-mccutchan\WebApplication2\obj\Debug\zoo-mccutchan.csproj.GenerateResource.Cache
