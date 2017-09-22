@@ -8,10 +8,10 @@ namespace ZooMccutchan.Web.DataModels
 {
     public class AppDbContext : DbContext
     {
-        public class AppDbContext() : base("ZooMccutchan")
+        public AppDbContext() : base("ZooMccutchan")
         {}
-        public DbSet<ZooKeeper> ID { get; set; }
-        public DbSet<Animal> animalID { get; set; }
-        public AppDbContext<Enclosure> enclosureID { get; set; }
+        public DbSet<ZooKeeper> ZooKeepers { get; set; }
+        public DbSet<Animal> Animals { get; set; }
+        public DbSet<Enclosure> Enclosures { get; set; }
     }
 }
