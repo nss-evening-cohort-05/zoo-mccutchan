@@ -9,6 +9,6 @@
 
 - [X] Once that's done, use entity framework to create the database.
 
-- [ ] Then, change a field on the ZooKeeper class, add a new field to the animal class, and mark a field on environments as having a maximum length.
+- [X] Then, change a field on the ZooKeeper class, add a new field to the animal class, and mark a field on environments as having a maximum length.
 
-- [ ] Migrate those changes to the database.
+- [X] Migrate those changes to the database.
